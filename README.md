@@ -1,10 +1,11 @@
 # ladcn.github.io
 
-## Header 1
+## Road Status Definition
 
-| head1        | head two          | three |
+
+| Road grade   | Congestion speed threshold| Unblocked speed threshold |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| 1            | 30 | 50  |
+| 2            | 20   | 40  |
+| 3            | 12      | 25   |
+| 4            | 10 | 20  |
