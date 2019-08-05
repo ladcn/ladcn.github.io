@@ -16,7 +16,7 @@ Road status categories are based on road grades and road speeds. We classify roa
 
 ###### Table 2 Performance comparison
 | Methods   | Macro F1 | Unblocked status F1 | Slow status F1 | Congestion status F1 |
-|:-------------|:--------------------------|:--------------------------|:--------------------------|
+|:-------------|:--------------------------|:--------------------------|:--------------------------|:--------------------------|
 | HistMode            | 0.3570                        | 0.9197                    | 0.060| 0.091|
 | Xgboost            | 0.9047                        | 0.9913                        |0.8110|0.9127|
 | GAT            | 0.9053                        | 0.9901                        |0.8082|0.9175|
