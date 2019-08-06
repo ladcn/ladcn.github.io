@@ -1,5 +1,3 @@
-# ladcn.github.io
-
 ## Road Status Definition
 
 ##### Table 1 Road speed threshold table (Unit: Km/h)
